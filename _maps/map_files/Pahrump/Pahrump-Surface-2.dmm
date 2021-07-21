@@ -18856,14 +18856,6 @@
 /obj/structure/displaycase,
 /turf/open/floor/wood/f13/carpet,
 /area/f13/building)
-"iRC" = (
-/obj/structure/barricade/wooden,
-/obj/structure/spacevine{
-	name = "vines"
-	},
-/obj/item/flag/oasis,
-/turf/open/indestructible/ground/outside/dirt,
-/area/f13/wasteland)
 "iRE" = (
 /obj/structure/chair/stool{
 	dir = 8;
@@ -18874,7 +18866,6 @@
 	},
 /area/f13/city)
 "iRH" = (
-/obj/structure/flora/ausbushes/sparsegrass,
 /obj/structure/flora/ausbushes/grassybush,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/wasteland)
@@ -29061,12 +29052,6 @@
 /turf/open/indestructible/ground/outside/road{
 	icon_state = "horizontaltopborderbottom2left"
 	},
-/area/f13/caves)
-"nQM" = (
-/obj/structure/barricade/sandbags{
-	name = "go away"
-	},
-/turf/closed/mineral/random/low_chance,
 /area/f13/caves)
 "nQP" = (
 /obj/structure/simple_door/metal/fence{
@@ -43221,6 +43206,9 @@
 /area/f13/wasteland)
 "uyT" = (
 /obj/structure/barricade/wooden,
+/obj/structure/spacevine{
+	name = "vines"
+	},
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/wasteland)
 "uzs" = (
@@ -69918,7 +69906,7 @@ gcK
 gcK
 gbL
 gcK
-nQM
+gcK
 ktB
 "}
 (72,1,1) = {"
@@ -81387,7 +81375,7 @@ scg
 mvv
 bpD
 uIa
-nkz
+xpU
 xpU
 xpU
 dCV
@@ -82654,7 +82642,7 @@ mfD
 xGH
 mvv
 uyT
-iRC
+uyT
 hNC
 jVE
 lsq

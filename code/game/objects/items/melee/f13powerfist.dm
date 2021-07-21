@@ -96,8 +96,8 @@
 	to_chat(usr, "<span class='notice'>[src] is ready to be worn on another hand.</span>")
 
 /obj/item/melee/unarmed/brass
-	name = "brass knuckles"
-	desc = "Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat."
+	name = "brass knucks"
+	desc = "Banned from most games of bloody knuckles."
 	icon = 'icons/obj/items_and_weapons.dmi'
 	icon_state = "brass"
 	item_state = "brass"
